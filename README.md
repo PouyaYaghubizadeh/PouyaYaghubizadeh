@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">✨ سلام! من پویا یعقوبی‌زاده‌ام 👋</h1>
 
-<!--
-**PouyaYaghubizadeh/PouyaYaghubizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=توسعه‌دهنده+Front-End;عاشق+Next.js+%26+UI+مدرن;کدنویسی+با+عشق+و+قهوه+☕" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 درباره من  
+- 🚀 توسعه‌دهنده‌ی فرانت‌اند با تمرکز روی **Next.js** و **React**
+- 💡 علاقه‌مند به طراحی رابط کاربری حرفه‌ای و انیمیشن‌های نرم  
+- 🌱 در حال یادگیری عمیق **Prisma**, **NextAuth**, و **Server Actions**
+- ⚡ همیشه دنبال تجربه‌های تازه و پروژه‌های خلاقانه‌ام  
+
+---
+
+### 🛠 مهارت‌ها
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,prisma,nodejs,postgres,git,github,figma" /><br/>
+</div>
+
+---
+
+### 📊 آمار گیت‌هاب من
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PouyaYaghubizadeh&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PouyaYaghubizadeh&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🚀 زبان‌های مورد استفاده
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaYaghubizadeh&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🌈 گراف فعالیت من
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaYaghubizadeh&theme=react-dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+### 🖤 نقل‌قول مورد علاقه
+> "کدی بنویس که خودت سه ماه دیگه هم ازش سردر بیاری." – پویا یعقوبی‌زاده
+
+---
+
+### 💬 راه‌های ارتباطی  
+<p align="center">
+  <a href="https://linkedin.com/in/pouyayaghubizadeh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/PouyaYaghubizadeh"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
