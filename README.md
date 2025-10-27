@@ -2,42 +2,6 @@
 🔥 Pouya Yaghubizadeh README
 ========================= -->
 
-<p align="center">
-  <!-- Header Neon Animation -->
-  <svg width="820" height="180" viewBox="0 0 820 180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-    <defs>
-      <linearGradient id="grad" x1="0" x2="1">
-        <stop offset="0%" stop-color="#7C4DFF"/>
-        <stop offset="50%" stop-color="#00E5FF"/>
-        <stop offset="100%" stop-color="#FF4081"/>
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <rect x="0" y="0" width="820" height="180" rx="12" fill="#0A0F1C"/>
-    <g transform="translate(410,90)">
-      <g filter="url(#glow)">
-        <circle r="58" fill="none" stroke="url(#grad)" stroke-width="10" stroke-linecap="round">
-          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
-        </circle>
-        <circle r="10" fill="#00E5FF">
-          <animateMotion dur="6s" repeatCount="indefinite">
-            <mpath xlink:href="#orbit"/>
-          </animateMotion>
-        </circle>
-      </g>
-      <text x="-250" y="10" fill="#E6F7FF" font-family="Vazirmatn, Arial" font-size="28" text-anchor="start">⚡ Pouya Yaghubizadeh — Frontend Developer ⚡</text>
-    </g>
-    <path id="orbit" d="M 58 0 A 58 58 0 1 0 -58 0 A 58 58 0 1 0 58 0" fill="none"/>
-  </svg>
-</p>
-
 ---
 
 <h1 align="center">👋 سلام! من پویا یعقوبی‌زاده‌ام</h1>
